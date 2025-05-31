@@ -1,0 +1,1 @@
+**Home4Paws** is a MERN (MongoDB, Express.js, React.js, Node.js) based web application dedicated to connecting animals in need with loving humans. The platform allows users to **adopt pets**, **donate pets** if they can no longer care for them, and **report animal emergencies** to nearby NGOs for swift action.
