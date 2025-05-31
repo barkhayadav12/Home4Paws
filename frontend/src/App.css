@@ -1,0 +1,65 @@
+body{
+  background: #eef4fa;
+}
+
+.welcome-text {
+  font-weight: 600;
+  font-size: 1.8rem;
+}
+
+.filters-section label {
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+
+.section-title {
+  font-size: 1.4rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.pet-card {
+  border-radius: 15px;
+  overflow: hidden;
+  transition: transform 0.2s ease;
+  background-color: #f9f9f9;
+}
+
+.pet-card:hover {
+  transform: scale(1.02);
+}
+
+.pet-image {
+  height: 220px;
+  object-fit: cover;
+}
+
+
+.navbar-brand {
+  font-family: 'Poppins', sans-serif;
+  letter-spacing: 1px;
+}
+
+.navbar-nav .nav-link {
+  transition: color 0.2s ease-in-out;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #f8c291 !important;
+}
+
+.btn-outline-danger {
+  font-weight: 500;
+  padding: 6px 16px;
+}
+
+.homePage{
+    padding-top: 50px;
+    padding-left: 70px;
+    width:100vw;
+    height:95vh;
+    color:white;
+    background-image: url('./images/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
